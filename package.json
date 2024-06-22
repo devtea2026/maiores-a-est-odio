@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/maiores-a-est-odio",
-  "version": "2.2.48",
+  "version": "2.2.49",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -689,5 +689,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/maiores-a-est-odio/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
